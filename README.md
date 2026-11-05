@@ -1,4 +1,4 @@
-# Ecommerce Website
+# Ecommerce Storefront
 
 A multi-page online store front end built with **HTML and CSS**: home, shop, product detail, blog, about and contact pages, all responsive.
 
